@@ -65,4 +65,4 @@ The application fetches manga data from a local server at http://localhost:3000/
     json-server --watch db.json
 
 5.  Access the server at http://localhost:3000/manga
-6.  Access the web app at: http://localhost:5500
+6.  Access the web app at: http://localhost:5500 or: https://koryrkoryr.github.io/Comix-project/
