@@ -4,13 +4,13 @@ Comix is a web application that allows users to search, sort, and view a collect
 
 # Features
 
- **Search Manga**: Users can search for manga by title.
- **Sort Manga**: Users can sort manga by title in ascending (A-Z) or descending (Z-A) order.
- **View All Manga**: Users can view the entire collection of manga.
- **Like Manga**: Users can like a manga item.
- **Rate Manga**: Users can rate a manga item from 1 to 5.
- **Comment on Manga**: Users can add comments to a manga item.
- **Dark/Light Mode**: Users can toggle between dark and light modes for better readability.
+- **Search Manga**: Users can search for manga by title.
+- **Sort Manga**: Users can sort manga by title in ascending (A-Z) or descending (Z-A) order.
+- **View All Manga**: Users can view the entire collection of manga.
+- **Like Manga**: Users can like a manga item.
+- **Rate Manga**: Users can rate a manga item from 1 to 5.
+- **Comment on Manga**: Users can add comments to a manga item.
+- **Dark/Light Mode**: Users can toggle between dark and light modes for better readability.
 
 # Project Structure
 
@@ -43,7 +43,7 @@ The application fetches manga data from a local server at http://localhost:3000/
 # Usage
 
 - Search for Manga: Enter a search query in the input field and click the "Search" button.
-- Sort Manga: Select a sort order from the dropdown menu (Default, A-Z, Z-A).
+- Sort Manga: Select a sort order from the dropdown menu (Default, A-Z, Z-A) then click show all.
 - View All Manga: Click the "Show All" button to view the entire manga collection.
 - Clear all manga: Click the "Clear All" button to clear all manga displayed.
 - Like a Manga: Click the "Like" button on a manga item to like it.
