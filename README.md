@@ -42,14 +42,14 @@ The application fetches manga data from a local server at http://localhost:3000/
 
 # Usage
 
-=> Search for Manga: Enter a search query in the input field and click the "Search" button.
-=> Sort Manga: Select a sort order from the dropdown menu (Default, A-Z, Z-A).
-=> View All Manga: Click the "Show All" button to view the entire manga collection.
-=> Clear all manga: Click the "Clear All" button to clear all manga displayed.
-=> Like a Manga: Click the "Like" button on a manga item to like it.
-=> Rate a Manga: Click the "Rate" button on a manga item to rate it from 1 to 5.
-=> Comment on a Manga: Enter a comment in the input field and click the "Comment" button to add a comment.
-=>Toggle Dark/Light Mode: Click the "Dark/Light Mode" button to switch between dark and light modes.
+- Search for Manga: Enter a search query in the input field and click the "Search" button.
+- Sort Manga: Select a sort order from the dropdown menu (Default, A-Z, Z-A).
+- View All Manga: Click the "Show All" button to view the entire manga collection.
+- Clear all manga: Click the "Clear All" button to clear all manga displayed.
+- Like a Manga: Click the "Like" button on a manga item to like it.
+- Rate a Manga: Click the "Rate" button on a manga item to rate it from 1 to 5.
+- Comment on a Manga: Enter a comment in the input field and click the "Comment" button to add a comment.
+- Toggle Dark/Light Mode: Click the "Dark/Light Mode" button to switch between dark and light modes.
 
 # Setup
 
