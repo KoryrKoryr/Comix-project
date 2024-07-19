@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Comix</title>
+    <link rel="stylesheet" href="./styles.css" />
+    <link
+      rel="shortcut icon"
+      href="./Favicon/favicon.ico"
+      type="image/x-icon"
+    />
+    <link rel="icon" href="./Favicon/favicon.ico" type="image/x-icon" />
+  </head>
+  <body>
+    <header>
+      <h1>My Comix</h1>
+      <input type="text" id="search-input" placeholder="Search for manga..." />
+      <button id="search-button">Search</button>
+      <select id="sort-order">
+        <option value="default">Default</option>
+        <option value="asc">A-Z</option>
+        <option value="desc">Z-A</option>
+      </select>
+      <button id="show-all-button">Show All</button>
+      <button id="toggle-button">Dark/Light Mode</button>
+    </header>
+    <main>
+      <div id="content">
+        <!-- Content will be inserted here. -->
+      </div>
+    </main>
+    <footer>
+      <p>&copy; Comix</p>
+    </footer>
+    <script src="./app.js"></script>
+  </body>
+</html>

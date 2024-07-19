@@ -1,0 +1,116 @@
+{
+  "manga": [
+    {
+      "id": "1",
+      "title": "Attack on Titan",
+      "author": "Hajime Isayama",
+      "description": "Attack on Titan is set in a world where humanity lives inside cities surrounded by enormous walls that protect them from gigantic man-eating humanoids called Titans.",
+      "poster": "poster/Attack_on_Titan.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Berserk",
+      "author": "Kentaro Miura",
+      "description": "Guts is the Black Swordsman, a feared warrior spoken of only in whispers. Bearer of a gigantic sword, an iron hand, and the scars of countless battles and tortures, his flesh is also indelibly marked with The Brand, an unholy symbol that draws the forces of darkness to him and dooms him as their sacrifice. But Guts won't take his fate lying down; he'll cut a crimson swath of carnage through the ranks of the damned—and anyone else foolish enough to oppose him!",
+      "poster": "poster/Berserk.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Chainsaw Man",
+      "author": "Tatsuki Fujimoto",
+      "description": "Denji was a small-time devil hunter just trying to survive in a harsh world. After being killed on a job, he is revived by his pet devil Pochita and becomes something new and dangerous—Chainsaw Man!",
+      "poster": "poster/Chainsawman.jpg"
+    },
+    {
+      "id": "4",
+      "title": "Dandadan",
+      "author": "Yukinobu Tatsu",
+      "description": "Momo Ayase and Okarun are on opposite sides of the paranormal spectrum regarding what they’ll believe in and what they won’t. Their quest to prove each other wrong leads them down a path of secret crushes and paranormal battles they’ll have to participate in to believe!",
+      "poster": "poster/Dandadan.jpg"
+    },
+    {
+      "id": "5",
+      "title": "Hell's Paradise",
+      "author": "Yuji Kaku",
+      "description": "Gabimaru the Hollow is one of the most vicious assassins ever to come out of the ninja village of Iwagakure. He’s ruthlessly efficient, but a betrayal results in him being handed a death sentence. He has only one hope—in order to earn his freedom, he must travel to a long-hidden island and recover an elixir that will make the shogun immortal. Failure is not an option. On this island, heaven and hell are just a hair’s breadth away.",
+      "poster": "poster/Hell's_Paradise.jpg"
+    },
+    {
+      "id": "6",
+      "title": "Hunter x Hunter",
+      "author": "Yoshihiro Togashi",
+      "description": "Hunters are a special breed, dedicated to tracking down treasures, magical beasts, and even other people. But such pursuits require a license, and less than one in a hundred thousand can pass the grueling qualification exam. Those who do pass gain access to restricted areas, amazing stores of information, and the right to call themselves Hunters.",
+      "poster": "poster/HunterxHunter.jpg"
+    },
+    {
+      "id": "7",
+      "title": "Jujutsu Kaisen",
+      "author": "Gege Akutami",
+      "description": "In a world where cursed spirits feed on unsuspecting humans, fragments of the legendary and feared demon Ryomen Sukuna have been lost and scattered about. Should any demon consume Sukuna’s body parts, the power they gain could destroy the world as we know it. Fortunately, there exists a mysterious school of jujutsu sorcerers who exist to protect the precarious existence of the living from the supernatural!",
+      "poster": "poster/Jujutsu_Kaisen.jpg"
+    },
+    {
+      "id": "8",
+      "title": "Kagurabachi",
+      "author": "Takeru Hokazono",
+      "description": "Chihiro Rokuhira’s father, Kunishige, is the most famous swordsmith in the land. Thanks to his six enchanted blades, the war that has been gripping the nation ends, and peaceful days follow. After the war, he retrieves all six blades and hides them in the cellar of his workshop—but sorcerers raid his home and leave Kunishige dead in front of Chihiro. Many years later, Chihiro wields Kunishige’s seventh and final enchanted blade on a mission to retrieve the stolen swords!",
+      "poster": "poster/Kagurabachi.jpg"
+    },
+    {
+      "id": "9",
+      "title": "Kingdom",
+      "author": "Yasuhisa Hara",
+      "description": "The story of Kingdom is a fictional adaptation of the Chinese history period known as the Warring States period, which ended in 221 BC when Ying Zheng, king of Qin, succeeded in conquering the other states and unifying China.",
+      "poster": "poster/Kingdom.png"
+    },
+    {
+      "id": "10",
+      "title": "Love of Kill",
+      "author": "Fe",
+      "description": "She’s a professional hitman. And he…is also a professional hitman. And she’s his target. Caught in a deadly game of cat-and-mouse, will she fall first…or will he?",
+      "poster": "poster/Love_of_Kill.jpg"
+    },
+    {
+      "id": "11",
+      "title": "Monster",
+      "author": "Naoki Urasawa",
+      "description": "Johan is a cold and calculating killer with a mysterious past, and brilliant Dr. Kenzo Tenma is the only one who can stop him! Conspiracy and serial murder open the door to a compelling, intricately woven plot in this masterwork of suspense.",
+      "poster": "poster/Monster.jpg"
+    },
+    {
+      "id": "12",
+      "title": "One Piece",
+      "author": "Eiichiro Oda",
+      "description": "As a child, Monkey D. Luffy dreamed of becoming King of the Pirates. But his life changed when he accidentally gained the power to stretch like rubber...at the cost of never being able to swim again! Years, later, Luffy sets off in search of the “One Piece,” said to be the greatest treasure in the world...S",
+      "poster": "poster/One_Piece.jpg"
+    },
+    {
+      "id": "13",
+      "title": "Sakamoto Days",
+      "author": "Yuto Suzuki",
+      "description": "Taro Sakamoto was once a legendary hit man considered the greatest of all time. Bad guys feared him! Assassins revered him! But then one day he quit, got married, and had a baby. He’s now living the quiet life as the owner of a neighborhood store, but how long can Sakamoto enjoy his days of retirement before his past catches up to him?!",
+      "poster": "poster/Sakamoto_Days.jpg"
+    },
+    {
+      "id": "14",
+      "title": "Vinland Saga",
+      "author": "Makoto Yukimura",
+      "description": "As a child, Thorfinn sat at the feet of the great Leif Ericson and thrilled to wild tales of a land far to the west. But his youthful fantasies were shattered by a mercenary raid. Raised by the Vikings who murdered his family, Thorfinn became a terrifying warrior, forever seeking to kill the band's leader, Askeladd, and avenge his father. Sustaining Thorfinn through his ordeal are his pride in his family and his dreams of a fertile westward land, a land without war or slavery...the land Leif called Vinland.",
+      "poster": "poster/Vinland_Saga.jpg"
+    },
+    {
+      "id": "15",
+      "title": "20th Century Boys",
+      "author": "Naoki Urasawa",
+      "description": "Humanity, having faced extinction at the end of the 20th century, would not have entered the new millennium if it weren’t for them. In 1969, during their youth, they created a symbol. In 1997, as the coming disaster slowly starts to unfold, that symbol returns. This is the story of a group of boys who try to save the world.",
+      "poster": "poster/20th_Century_Boys.jpg"
+    },
+    {
+      "id": "16",
+      "title": "The Apothecary Diaries",
+      "author": "Natsu Hyūga",
+      "description": "A young woman, in her late forties, becomes a professional chemist, working as a private investigator in a small town.",
+      "poster": "poster/The_Apothecary_Diaries.jpg"
+    }
+  ]
+}
