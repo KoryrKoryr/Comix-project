@@ -14,14 +14,6 @@ Comix is a web application that allows users to search, sort, and view a collect
 
 # Project Structure
 
-Comix/
-|-- Favicon
-|-- poster
-|-- index.html
-├── styles.css
-├── app.js
-└── db.json
-
 ## `index.html`
 
 Has the basic structure of the webpage, including the header, main content area, and footer. It also links to the CSS and JavaScript files.
