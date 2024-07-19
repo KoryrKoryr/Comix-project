@@ -61,7 +61,7 @@ The application fetches manga data from a local server at http://localhost:3000/
 4.  Ensure your local server is set up and running correctly to return the appropriate manga data in JSON format from db.json. You can use json-server to serve the db.json file:
     npm install -g json-server
 
-        json-server --watch db.json
+    json-server --watch db.json
 
 5.  Access the server at http://localhost:3000/manga
-6.  Access the web app at http://localhost:5500
+6.  Access the web app at: http://localhost:5500 or: https://koryrkoryr.github.io/Comix-project/
