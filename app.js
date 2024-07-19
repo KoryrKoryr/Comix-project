@@ -19,6 +19,15 @@ function addEventListeners() {
   document
     .getElementById("toggle-button")
     .addEventListener("click", toggleDarkMode);
+
+  // Add event listener for the clear button
+  document.getElementById("clear-button").addEventListener("click", clearManga);
+}
+
+// Function to clear the DOM of displayed manga
+function clearManga() {
+  const contentDiv = document.getElementById("content");
+  contentDiv.innerHTML = ""; // Clear the content div
 }
 
 // Function to search for manga based on user input and sort order
